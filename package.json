@@ -1,0 +1,22 @@
+{
+    "name": "ninjadark",
+    "displayName": "NinjaDark",
+    "description": "A sneaky ninja theme for sneaky developers for doing greate stuff",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NinjaDarkFull",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ninja-dark-color-theme.json"
+            }
+            
+        ]
+    }
+}
