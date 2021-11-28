@@ -5,13 +5,14 @@
     "displayName": "NinjaDark",
     "description": "A sneaky ninja theme for sneaky developers for doing greate stuff",
     "icon": "logo/logo.jpeg",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.62.0"
     },
     "categories": [
         "Themes"
-    ],"repository": {
+    ],
+    "repository": {
         "type": "git",
         "url": "https://github.com/mani-cmd/ninjadark"
     },
@@ -22,7 +23,6 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/ninja-dark-color-theme.json"
             }
-            
         ]
     }
 }
