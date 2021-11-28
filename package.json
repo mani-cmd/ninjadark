@@ -1,14 +1,20 @@
 {
     "name": "ninjadark",
+    "author": "Manikandan",
+    "publisher": "manikandan",
     "displayName": "NinjaDark",
     "description": "A sneaky ninja theme for sneaky developers for doing greate stuff",
+    "icon": "logo/logo.jpeg",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.62.0"
     },
     "categories": [
         "Themes"
-    ],
+    ],"repository": {
+        "type": "git",
+        "url": "https://github.com/mani-cmd/ninjadark"
+    },
     "contributes": {
         "themes": [
             {

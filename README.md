@@ -10,6 +10,6 @@ This theme is an inspiration theme from One Dark Pro and Dracula and, I added so
 <img alt='javascript' src='./themes/screenshots/Javascript.png'>
 <img alt='python' src='./themes/screenshots/Python.png'>
 
-Font used in screenshots - [Fira Code iScript]('https://github.com/kencrocken/FiraCodeiScript')
+Font used in screenshots - [Fira Code iScript]
 
 **Enjoy! the theme**
